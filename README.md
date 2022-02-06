@@ -1,22 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Heeya Amin</h1>
+<h3 align="center">A passionate programmer and Machine Learning Enthusiast from India</h3>
+<h4 align="center">😄 Pronouns: She/Her👩</h4>
+<h5 align="center">⚡ Fun fact: Coffee & Music BAE💞☕🎶</h5>
 
-I'm a Programmer and a Machine Learning Enthusiast 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heeyaamin&label=Profile%20views&color=0e75b6&style=flat" alt="heeyaamin" /> </p>
 
-- 🔭 I’m currently working on Python Language 
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 💬 Ask me about Java Language and Basic Machine Learning
-- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/heeya-a-56bb98204)
-- 😄 Pronouns: She/Her👩
-- ⚡ Fun fact: Coffee & Music BAE
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heeyaamin" alt="heeyaamin" /></a> </p>
 
-Languages/Tools:
-- Python
-- Java
-- C#
-- Pycharm
-- BlueJ
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/heeya-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heeya-a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/heeyaamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heeyaamin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/heeyaamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heeyaamin" height="30" width="40" /></a>
+</p>
 
-https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Contact Me --> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heeyaamin&show_icons=true&locale=en" alt="heeyaamin" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heeyaamin&" alt="heeyaamin" /></p>
