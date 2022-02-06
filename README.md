@@ -9,3 +9,14 @@ I'm a Programmer and a Machine Learning Enthusiast
 - 😄 Pronouns: She/Her👩
 - ⚡ Fun fact: Coffee & Music BAE
 
+Languages/Tools:
+- Python
+- Java
+- C#
+- Pycharm
+- BlueJ
+
+https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+
+Contact Me --> 
+
