@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heeya Amin</h1>
-<h3 align="center">A passionate programmer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate programmer, WebDev and Machine Learning Enthusiast from India</h3>
 <h4 align="center">😄 Pronouns: She/Her👩</h4>
 <h5 align="center">⚡ Fun fact: Coffee & Music BAE💞☕🎶</h5>
 
