@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heeya Amin</h1>
-<h3 align="center">A passionate programmer, WebDev and Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate AI-ML and Data Science Enthusiast from India</h3>
 <h4 align="center">😄 Pronouns: She/Her👩</h4>
-<h5 align="center">⚡ Fun fact: Coffee & Music BAE💞☕🎶</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heeyaamin&label=Profile%20views&color=0e75b6&style=flat" alt="heeyaamin" /> </p>
 
