@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Heeya Amin</h1>
-<h3 align="center">A passionate AI-ML and Data Science Enthusiast from India</h3>
-<h4 align="center">😄 Pronouns: She/Her👩</h4>
+<h1 align="center">Hi 👋 I'm Heeya Amin</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heeyaamin&label=Profile%20views&color=0e75b6&style=flat" alt="heeyaamin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heeyaamin" alt="heeyaamin" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/heeya-a-56bb98204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heeya-a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/heeyaamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heeyaamin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/heeyaamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heeyaamin" height="30" width="40" /></a>
+<p align="center">
+MS Data Science @ Indiana University Bloomington • AI / ML • Data Science
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+She / Her • Generative AI • Machine Learning • NLP • Analytics
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heeyaamin&show_icons=true&locale=en" alt="heeyaamin" /></p>
+<p align="center">
+  <a href="https://heeya-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/heeya-amin/">LinkedIn</a> •
+  <a href="mailto:heeyaamin03@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heeyaamin&" alt="heeyaamin" /></p>
+---
+
+**About**  
+MS Data Science student (May 2026) with experience in ML, generative AI, NLP, cloud, and data analytics. Published Springer research. Building end-to-end AI systems from data to deployment.
+
+**Tech**  
+Python, SQL, Java • TensorFlow, PyTorch, LangChain, Rasa • Tableau, Power BI • GCP, AWS • Git, Docker
+
+**Projects**  
+ML Cloud Resource Optimization • AI Blog Generator • E-commerce Chatbot
+
+**Research**  
+Explainable AI in Healthcare • Academic Chatbots (Springer)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heeyaamin&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heeyaamin&theme=tokyonight" height="140"/>
+</p>
