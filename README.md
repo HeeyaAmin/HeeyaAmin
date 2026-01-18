@@ -29,6 +29,13 @@ ML Cloud Resource Optimization • AI Blog Generator • E-commerce Chatbot
 Explainable AI in Healthcare • Academic Chatbots (Springer)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heeyaamin&show_icons=true&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heeyaamin&theme=tokyonight" height="140"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HeeyaAmin&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="140"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=HeeyaAmin&theme=tokyonight&cache_seconds=1800"
+    height="140"
+  />
 </p>
+
